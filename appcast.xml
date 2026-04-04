@@ -3,6 +3,17 @@
     <channel>
         <title>lazy_bar</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 04 Apr 2026 17:03:44 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://feng-jin.github.io/lazy_bar_update/lazy_bar-0.1.1.zip" length="1647098" type="application/octet-stream" sparkle:edSignature="cI/jLF5FcchiISzikIr9QUBoZML+Lj1YkTdaAWnR23pjrhmMf5EXVInHKMy5dYld+SxCmTTrvpdbWFDxCEPIBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://feng-jin.github.io/lazy_bar_update/lazy_bar2-1.delta" sparkle:deltaFrom="1" length="1254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HrU7yA8sE4OcKIhaMu9vB3rLEuUx7uD1FmYNdFjuhGOxFCAAJ7FAuMIo4KU+sPuYrnzKrCRiCo1S4VXy9OtFDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 04 Apr 2026 16:58:09 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
